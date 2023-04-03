@@ -94,7 +94,7 @@
 - RMSE 0.3249
 
 # Conclusion :-
-Based on the evaluation results, the Random Forest Regressor was chosen as the best model to achieve our objective. Also in future we can try implementing some other optimising techniques to get better results.
+**Based on the evaluation results, the Random Forest Regressor was chosen as the best model to achieve our objective. Also in future we can try implementing some other optimising techniques to get better results.**
 
 
 
