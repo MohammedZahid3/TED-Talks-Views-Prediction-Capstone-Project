@@ -67,6 +67,34 @@
 - `VotingRegressor`
 - `StackingRegressor`
 
+# Best Models to Achieve our Objective :-
+
+🥇 RandomForestRegressor with hyperparameter tuning 🥇
+
+![222968115-997876e0-cc63-4127-9438-ab68873dfda4](https://user-images.githubusercontent.com/96717126/229353863-6ec6dc2d-2069-4038-be81-847342e72f1b.png)
+
+`Training data R2 and Adjusted R2 Score`
+
+- R2 score 0.9108
+- Adjusted R2 score 0.9106
+
+`Testing data R2 and Adjusted R2 Score`
+
+- R2 score 0.8977
+- Adjusted R2 score 0.8968
+
+`Cross-validation score`
+
+- 0.8974
+
+`The performance metrics`
+
+- MAE 0.2613
+- MSE 0.1055
+- RMSE 0.3249
+
+# Conclusion :-
+Based on the evaluation results, the Random Forest Regressor was chosen as the best model to achieve our objective. Also in future we can try implementing some other optimising techniques to get better results.
 
 
 
