@@ -8,7 +8,7 @@
             Slogan Of TED :- IDEAS WORTH SPREADING ⏰
           
 # Objective :
-- The main objective is to build a predictive model, which could help in predicting the views of the videos uploaded on the TEDx website.
+- The main objective is to build a predictive model, which could help us in predicting the views of the videos uploaded on the TEDx website.
 
 # Dataset info :
 - 1.Number of records: 4,005
